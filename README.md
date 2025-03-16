@@ -10,9 +10,8 @@ My experience spans **cloud-native architecture, automation pipelines, and endpo
 
 ## 🎯 Tech & Tools I Use
 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-AF1B57?style=for-the-badge&logo=powershell&logoColor=white)  
-![Intune](https://img.shields.io/badge/Intune-947F57?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-AF1B57?style=for-the-badge&logo=powershell&logoColor=white) ![Intune](https://img.shields.io/badge/Intune-947F57?style=for-the-badge&logo=microsoft&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-AF1B57?style=for-the-badge&logo=ansible&logoColor=white)  
+
 ---
 
 ## 📊 GitHub Stats
@@ -24,6 +23,6 @@ My experience spans **cloud-native architecture, automation pipelines, and endpo
 
 ## 👩🏻‍💻 Connect with Me  
 
-- [Bluesky](https://bsky.app/profile/allwayshype.com)  
-- [Twitter](https://x.com/AllwaysHyPe)  
-- [Website](https://www.allwayshype.com/)  
+- **Bluesky:** [@allwayshype.com](https://bsky.app/profile/allwayshype.com)  
+- **Twitter:** [@AllwaysHyPe](https://x.com/AllwaysHyPe)  
+- **Website:** [allwayshype.com](https://www.allwayshype.com/)  
