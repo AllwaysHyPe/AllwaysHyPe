@@ -10,10 +10,9 @@ My experience spans **cloud-native architecture, automation pipelines, and endpo
 
 ## 🎯 Tech & Tools I Use
 
-![Azure](https://img.shields.io/badge/Azure-AF1B57?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-D0A9AA?style=for-the-badge&logo=powershell&logoColor=black)
-![Intune](https://img.shields.io/badge/Intune-947F57?style=for-the-badge&logo=microsoft&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+!![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-AF1B57?style=for-the-badge&logo=powershell&logoColor=white)  
+![Intune](https://img.shields.io/badge/Intune-947F57?style=for-the-badge&logo=microsoft&logoColor=white)   
 
 ---
 
@@ -24,9 +23,8 @@ My experience spans **cloud-native architecture, automation pipelines, and endpo
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-[![Website](https://img.shields.io/badge/Website-AllwaysHyPe.com-AF1B57?style=for-the-badge)](https://www.allwayshype.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hailey%20Phillips-D0A9AA?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hailey-phillips-b1744882/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40allwayshype.com-947F57?style=for-the-badge)](https://bsky.app/profile/allwayshype.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40AllwaysHyPe-000000?style=for-the-badge&logo=twitter)](https://x.com/AllwaysHyPe)
+- ![Bluesky](https://img.shields.io/badge/Bluesky-%40allwayshype.com-947F57?style=for-the-badge) [@allwayshype.com](https://bsky.app/profile/allwayshype.com)  
+- ![Twitter](https://img.shields.io/badge/Twitter-%40AllwaysHyPe-000000?style=for-the-badge&logo=twitter) [@AllwaysHyPe](https://x.com/AllwaysHyPe)  
+- ![Website](https://img.shields.io/badge/Website-AllwaysHyPe.com-AF1B57?style=for-the-badge) [AllwaysHyPe.com](https://www.allwayshype.com/)  
