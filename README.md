@@ -10,7 +10,7 @@ My experience spans **cloud-native architecture, automation pipelines, and endpo
 
 ## ⚙️ Tech & Tools I Use  
 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-AF1B57?style=for-the-badge&logo=powershell&logoColor=white) ![Intune](https://img.shields.io/badge/Intune-947F57?style=for-the-badge&logo=microsoft&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)   
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-AF1B57?style=for-the-badge&logo=powershell&logoColor=white) ![Intune](https://img.shields.io/badge/Intune-947F57?style=for-the-badge&logo=microsoft&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-D0A9AA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
